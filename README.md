@@ -67,7 +67,7 @@ There are several export options for maximum flexibility.
   - Sort Slices: Position or Name
   - When using "Name" sprites are sorted alphabetically, otherwise by canvas position
   - When using "Name" ASM labels will use that value, e.g. `RocketU1::`
-* Output Format: **GBDK**, **RGBDS**, **RGBDS HEX (DB)**
+* Output Format: **BIN**, **GBDK**, **RGBDS**, **RGBDS HEX (DB)**
   - each tile is given a comment with its number, e.g. `Tile 0x3C`
 * Add ASM Labels:
   - prefixes each sprite with an ASM label, e.g. `Sprite01::`

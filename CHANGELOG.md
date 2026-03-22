@@ -1,5 +1,9 @@
 ## CHANGELOG
 
+### v1.3 (2026-03-22)
+
+* Support for BIN data format
+
 ### v1.2 (2026-03-15)
 
 * Support for GBDK format (C language output)
